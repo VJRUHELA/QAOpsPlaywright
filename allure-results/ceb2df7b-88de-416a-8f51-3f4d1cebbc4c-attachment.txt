@@ -1,0 +1,41 @@
+https://rahulshettyacademy.com/api/ecom/auth/login 200
+https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js
+https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js 200
+https://rahulshettyacademy.com/api/ecom/product/get-all-products
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/620c7bf148767f1f1215d2ca
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/620c7bf148767f1f1215d2ca
+https://rahulshettyacademy.com/api/ecom/product/get-all-products 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/620c7bf148767f1f1215d2ca
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/620c7bf148767f1f1215d2ca
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/620c7bf148767f1f1215d2ca
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959265156.jpg
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959232316.jpeg
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959158182.jpg
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1778186483880.jpg
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1778186561533.jpg
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1778187677493.jpg
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1778187752681.jpg
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1779969045745.png
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/620c7bf148767f1f1215d2ca 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/620c7bf148767f1f1215d2ca 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/620c7bf148767f1f1215d2ca 200
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959265156.jpg 200
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959232316.jpeg 200
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959158182.jpg 200
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1778186561533.jpg 200
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1778186483880.jpg 200
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1778187677493.jpg 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/620c7bf148767f1f1215d2ca 200
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1778187752681.jpg 200
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1779969045745.png 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/620c7bf148767f1f1215d2ca 200
+[
+  'ADIDAS ORIGINAL',
+  'ZARA COAT 3',
+  'iphone 13 pro',
+  'qwerty',
+  'qwerty',
+  'qwerty',
+  'qwerty',
+  'car'
+]
